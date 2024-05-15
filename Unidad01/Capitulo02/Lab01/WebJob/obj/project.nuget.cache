@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tlWy8n/IrQBjCvrtT94VDdpFoGEW3mNgWmfX/kJNBBbgbfxXu7LBDUovbjsPCwHR+LiWCXi6R6EstFHUjABkg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad01\\Capitulo02\\Lab01\\WebJob\\WebJob.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Shared no es compatible con net472 (.NETFramework,Version=v4.7.2). El proyecto Shared admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Shared",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Shared no es compatible con net472 (.NETFramework,Version=v4.7.2) / win7-x86. El proyecto Shared admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Shared",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win7-x86"
+      ]
+    }
+  ]
+}

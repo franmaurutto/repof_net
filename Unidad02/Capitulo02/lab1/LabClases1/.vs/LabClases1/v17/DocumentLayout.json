@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\LabClases1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCD63BB-0E4A-4754-899A-6AE6EE674D1E}|LabClases1.csproj|c:\\users\\fran\\desktop\\.net\\unidad02\\capitulo02\\labclases1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCD63BB-0E4A-4754-899A-6AE6EE674D1E}|LabClases1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57D291-7FC9-43E1-A68D-398A5B88EE3A}|..\\Clases\\Clases.csproj|c:\\users\\fran\\desktop\\.net\\unidad02\\capitulo02\\clases\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCD63BB-0E4A-4754-899A-6AE6EE674D1E}|LabClases1.csproj|c:\\users\\fran\\desktop\\.net\\unidad02\\capitulo02\\labclases1\\labclases1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BCD63BB-0E4A-4754-899A-6AE6EE674D1E}|LabClases1.csproj|solutionrelative:labclases1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57D291-7FC9-43E1-A68D-398A5B88EE3A}|..\\Clases\\Clases.csproj|c:\\users\\fran\\desktop\\.net\\unidad02\\capitulo02\\clases\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabClases1",
+              "DocumentMoniker": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\LabClases1\\LabClases1.csproj",
+              "RelativeDocumentMoniker": "LabClases1.csproj",
+              "ToolTip": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\LabClases1\\LabClases1.csproj",
+              "RelativeToolTip": "LabClases1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T14:31:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\Clases\\B.cs",
+              "RelativeDocumentMoniker": "..\\Clases\\B.cs",
+              "ToolTip": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\Clases\\B.cs",
+              "RelativeToolTip": "..\\Clases\\B.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:22:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\Clases\\A.cs",
+              "RelativeDocumentMoniker": "..\\Clases\\A.cs",
+              "ToolTip": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\Clases\\A.cs",
+              "RelativeToolTip": "..\\Clases\\A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:08:23.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\LabClases1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fran\\Desktop\\.NET\\Unidad02\\Capitulo02\\LabClases1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:06:43.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

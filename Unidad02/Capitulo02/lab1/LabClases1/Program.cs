@@ -1,0 +1,14 @@
+﻿using Clases;
+A var1 = new A();
+B var2 = new B();
+var1.asignodefault();
+Console.WriteLine(var1.MostrarNombre());
+var1.asigno("nombre");
+Console.WriteLine(var1.MostrarNombre());
+var1.M1();
+var1.M2();
+var1.M3();
+var2.M1();
+var2.M2();
+var2.M3();
+var2.M4();
